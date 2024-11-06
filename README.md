@@ -25,18 +25,18 @@ I would love to connect with fellow developers, tech enthusiasts, and anyone int
 These are the technologies I work with and am passionate about:
 
 ### 🌍 **Cloud Computing**
-- [Google Cloud Platform](https://cloud.google.com) (GCP)
+- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/> [Google Cloud Platform](https://cloud.google.com) (GCP)
 
 ### 💻 **Programming Languages**
-- [C++](https://www.w3schools.com/cpp/)
-- [Java](https://www.java.com)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [PHP](https://www.php.net)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> [C++](https://www.w3schools.com/cpp/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> [Java](https://www.java.com)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> [PHP](https://www.php.net)
 
 ### ⚙️ **Frameworks & Libraries**
-- [Node.js](https://nodejs.org)
-- [Laravel](https://laravel.com)
-- [React](https://reactjs.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> [Node.js](https://nodejs.org)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> [Laravel](https://laravel.com)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> [React](https://reactjs.org)
 
 ---
 
