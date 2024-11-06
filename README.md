@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nouval Habibie</h1>
-<h3 align="center">just student</h3>
+# Hi 👋, I'm Nouval Habibie!
 
-- 🔭 I’m currently studying on **Universitas Andalas**
+### A passionate **Student** | Aspiring **Web Developer** | GCP Explorer 🌱
 
-- 🌱 I’m currently learning **GCP**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Habiboys](https://github.com/Habiboys)
+Welcome to my little corner of the web! I'm Nouval, a **5th semester student** at **Universitas Andalas** studying **Information Systems**. I'm currently diving into the world of **Google Cloud Platform (GCP)** to explore its cloud-based magic ✨.
 
-- 📫 How to reach me **nouvalhabibie18@gmail.com**
+## 🚀 What I'm up to:
+- 🎓 **Studying at Universitas Andalas**, soaking in all the knowledge about technology and cloud computing.
+- ☁️ **Learning Google Cloud Platform (GCP)** to build scalable, efficient cloud-based solutions.
+- 💻 **Creating awesome projects** that explore web development, cloud computing, and machine learning. Check them out on my [GitHub](https://github.com/Habiboys).
 
-- ⚡ Fun fact **i don't like programming**
+## 📫 Let's Connect!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/m. nouval habibie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. nouval habibie" height="30" width="40" /></a>
-<a href="https://instagram.com/nuval18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuval18_" height="30" width="40" /></a>
-</p>
+I would love to connect with fellow developers, tech enthusiasts, and anyone interested in learning or sharing knowledge! Here's how you can reach out:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- ✨ **LinkedIn**: [m-nouval-habibie](https://linkedin.com/in/m-nouval-habibie)
+- 📸 **Instagram**: [nuval18_](https://instagram.com/nuval18_)
+- 📧 **Email**: [nouvalhabibie18@gmail.com](mailto:nouvalhabibie18@gmail.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
+These are the technologies I work with and am passionate about:
+
+### 🌍 **Cloud Computing**
+- [Google Cloud Platform](https://cloud.google.com) (GCP)
+
+### 💻 **Programming Languages**
+- [C++](https://www.w3schools.com/cpp/)
+- [Java](https://www.java.com)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [PHP](https://www.php.net)
+
+### ⚙️ **Frameworks & Libraries**
+- [Node.js](https://nodejs.org)
+- [Laravel](https://laravel.com)
+- [React](https://reactjs.org)
+
+---
+
+## ⚡ Fun Facts about Me:
+- Despite being a web developer, **I’m not a huge fan of programming** – I prefer solving real-world problems with code! 😅
+- I get excited about **cloud solutions**, **machine learning**, and how **technology can improve daily life**.
+
+---
+
+## 💡 What’s Next?
+I’m constantly learning, evolving, and building! I plan to explore more advanced features of **GCP**, dive deeper into **machine learning**, and create more impactful projects that combine **cloud technology** and **AI**.
+
+Stay tuned for more fun projects and updates. I’m excited to see where this journey will take me!
+
+---
+
+**"The best way to predict the future is to create it."** - **Abraham Lincoln** 😎
