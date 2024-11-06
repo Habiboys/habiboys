@@ -43,12 +43,14 @@ These are the technologies I work with and am passionate about:
 
 ## ⚡ Fun Facts about Me:
 - Despite being a web developer, **I’m not a huge fan of programming** – I prefer solving real-world problems with code! 😅
-- I get excited about **cloud solutions**, **machine learning**, and how **technology can improve daily life**.
+- **Coffee is my best friend**—it keeps me awake and helps me "think" better, even though I'm not sure if it's the coffee or just the anxiety... ☕😅
+- I love writing code, but **running it** feels like a **high-stakes poker game**—will it work, or will I need to debug my life? ♠️😂
+- My **error messages** could probably write a book about our relationship… and it would be a bestseller! 📚
 
 ---
 
 ## 💡 What’s Next?
-I’m constantly learning, evolving, and building! I plan to explore more advanced features of **GCP**, dive deeper into **machine learning**, and create more impactful projects that combine **cloud technology** and **AI**.
+I’m constantly learning, evolving, and building!.
 
 Stay tuned for more fun projects and updates. I’m excited to see where this journey will take me!
 
