@@ -36,7 +36,7 @@ These are the technologies I work with and am passionate about:
 
 ### ⚙️ **Frameworks & Libraries**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> [Node.js](https://nodejs.org)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> [Laravel](https://laravel.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> [Laravel](https://laravel.com)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> [React](https://reactjs.org)
 
 ---
