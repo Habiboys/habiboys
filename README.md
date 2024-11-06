@@ -7,7 +7,7 @@
 Welcome to my little corner of the web! I'm Nouval, a **5th semester student** at **Universitas Andalas** studying **Information Systems**. I'm a web developer and currently diving into the world of **Google Cloud Platform (GCP)** to explore its cloud-based magic ✨.
 
 ## 🚀 What I'm up to:
-- 🎓 **Studying at Universitas Andalas**, soaking in all the knowledge about technology and cloud computing.
+- 🎓 **Studying at Universitas Andalas**, soaking in all the knowledge about technology and infromation system.
 -  💻 **Creating awesome Web projects** that explore web development. Check them out on my [GitHub](https://github.com/Habiboys).
 - ☁️ **Learning Google Cloud Platform (GCP)** to build scalable, efficient cloud-based solutions.
 
