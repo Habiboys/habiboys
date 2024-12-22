@@ -1,135 +1,124 @@
 <div align="center">
-  <!-- Custom Badge Generator -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nouval%20Habibie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20|%20Cloud%20Explorer%20|%20Problem%20Solver&descAlignY=51&descAlign=62" width="100%" />
+  <!-- Modern Minimalist Header -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nouval%20Habibie&fontSize=90&animation=twinkling&fontColor=fff&rotate=23&fontAlignY=38&desc=Crafting%20Digital%20Experiences&descAlignY=55" width="100%" />
 
-  <!-- Dynamic Typing Effect -->
+  <!-- Modern Badges -->
+  <div>
+    <a href="https://linkedin.com/in/m-nouval-habibie">
+      <img src="https://img.shields.io/badge/-nouval-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:nouvalhabibie18@gmail.com">
+      <img src="https://img.shields.io/badge/-nouvalhabibie18@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=habiboys&style=flat-square&color=blue"/>
+  </div>
+
+  <!-- Dynamic Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Passionate+about+Web+Development+%F0%9F%92%BB;Exploring+Cloud+Technologies+%E2%98%81%EF%B8%8F;Learning+and+Growing+Everyday+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3584E3&center=true&vCenter=true&random=false&width=445&lines=Student+Developer+%F0%9F%8E%93;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%94%A7" alt="Typing SVG" />
   </a>
-
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
+<!-- Modern About Section -->
 <div align="center">
-  <h2>🌟 About Me</h2>
-  <img align="right" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+  <h2>⚡ About Me</h2>
 </div>
 
-```typescript
-class Nouval implements Developer {
-    name: string = "M. Nouval Habibie";
-    role: string = "Student Developer";
-    education: Education = {
-        university: "Universitas Andalas",
-        major: "Information Systems",
-        semester: 5
-    };
-    location: string = "Indonesia 🇮🇩";
-    workingOn: string[] = [
-        "Web Development Projects",
-        "Cloud Computing (GCP)",
-        "Personal Growth"
-    ];
-    interests: string[] = [
-        "Technology", "Innovation",
-        "Problem Solving", "Cloud Architecture"
-    ];
+```js
+// Universe.js - Where code meets creativity
+import { Life } from 'universe';
 
-    sayHi(): string {
-        return "Thanks for dropping by! Let's create something amazing together!";
+class Nouval extends Developer {
+    constructor() {
+        super();
+        this.name = '𝙼. 𝙽𝚘𝚞𝚟𝚊𝚕 𝙷𝚊𝚋𝚒𝚋𝚒𝚎';
+        this.title = 'Student Developer';
+        this.location = 'Indonesia';
+        this.education = {
+            university: 'Universitas Andalas',
+            major: 'Information Systems',
+            semester: 5
+        };
+    }
+
+    get skills() {
+        return {
+            languages: ['JavaScript', 'PHP', 'Java', 'C++'],
+            frameworks: ['React', 'Laravel', 'Node.js'],
+            cloud: ['Google Cloud Platform'],
+            current_focus: 'Building scalable web applications'
+        };
+    }
+
+    get life_status() {
+        return {
+            coffee: loading(),
+            code: running(),
+            life: debugging()
+        };
     }
 }
 ```
 
+<!-- Modern Stats Section with Grid Layout -->
 <div align="center">
-  <h2>🚀 Quick Stats</h2>
+  <h2>📊 GitHub Journey</h2>
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=habiboys&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="500">
   
-  <!-- Animated Stats Cards -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=radical&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=radical&hide_border=true"/>
-
-  <!-- Languages Card -->
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&theme=radical&hide_border=true&layout=compact"/>
+  <!-- Contribution Calendar -->
+  <h3>⚡ Contribution Calendar</h3>
+  <img alt="contribution calendar" src="https://raw.githubusercontent.com/habiboys/habiboys/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<!-- Tech Stack Section -->
+<!-- Modern Tech Stack -->
 <div align="center">
-  <h2>💻 Technologies & Tools</h2>
+  <h2>🛠️ Tech Universe</h2>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,php,laravel,java,cpp,git,github,gcp&theme=dark" />
   
-  <!-- Language Tiers -->
-  <h3>👨‍💻 Programming Languages</h3>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-  <h3>🎨 Frontend Development</h3>
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  <h3>⚙️ Backend Development</h3>
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  
-  <h3>☁️ Cloud & DevOps</h3>
-  
-  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  <!-- Animated Progress Bars -->
+  <h3>🎯 Current Focus</h3>
 </div>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&custom_title=Nouval's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true" width="100%"/>
+```css
+/* skills.css */
+@keyframes progress {
+  from { width: 0; }
+  to { width: var(--progress); }
+}
 
-<!-- Animated Snake -->
+Web Development    [██████████████████████░░]  90%
+Cloud Computing   [████████████████████░░░░]  80%
+Problem Solving   [███████████████████████░]  95%
+UI/UX Design      [██████████████████░░░░░░]  75%
+```
+
+<!-- Modern Projects Section -->
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"/>
+  <h2>🚀 Featured Projects</h2>
+  
+  <a href="https://github.com/habiboys">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=habiboys&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&theme=react-dark&hide_border=true&bg_color=0D1117&area=true&area_color=3584E3" width="100%">
 
 <!-- Current Status -->
 <div align="center">
-  <h2>🎯 Current Status</h2>
-  
-  ```text
-  🌱 Currently learning advanced cloud architecture
-  💡 Open for collaboration on innovative projects
-  🎓 Working on expanding my skill set
-  ⚡ Available for interesting discussions and ideas
-  ```
-  
-  <!-- Spotify Status -->
-  <h3>🎵 Vibing to</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrcqnwwvwn4xjcidjbpkr73a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
+  <h2>🎵 Current Vibe</h2>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrcqnwwvwn4xjcidjbpkr73a&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrcqnwwvwn4xjcidjbpkr73a&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify">
+  </a>
 </div>
 
-<!-- Connect Section -->
+<!-- Quote -->
 <div align="center">
-  <h2>🤝 Let's Connect</h2>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nouval-habibie)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouvalhabibie18@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nuval18_)
-
-  <h3>💬 Favorite Quote</h3>
-  
-  > *"The only way to do great work is to love what you do."* - Steve Jobs
+  <h2>💭 Developer Philosophy</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500"/>
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Modern Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=habiboys&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=200&section=footer&rotate=180" width="100%"/>
 </div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
