@@ -13,7 +13,7 @@ Welcome to my little corner of the web! I'm Nouval, a **5th semester student** a
 
 ## Github Statistic
 <p align="left">
-<a href="https://github.com/thomasasfar">
+<a href="https://github.com/habiboys">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=habiboys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habiboys&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
