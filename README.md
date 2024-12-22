@@ -1,160 +1,135 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Nouval+Habibie!;Welcome+to+my+Profile!" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <!-- Animated banner -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <!-- Dynamic role display -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=500&lines=Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Cloud+Explorer+%E2%98%81%EF%B8%8F;Problem+Solver+%F0%9F%94%A7" alt="Roles Typing SVG" />
+  <!-- Custom Badge Generator -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nouval%20Habibie&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20|%20Cloud%20Explorer%20|%20Problem%20Solver&descAlignY=51&descAlign=62" width="100%" />
 
-  <!-- Animated social badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/m-nouval-habibie" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>&nbsp;
-    <a href="mailto:nouvalhabibie18@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>&nbsp;
-    <a href="https://instagram.com/nuval18_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-  
-  <!-- Profile views counter with animation -->
-  <img src="https://komarev.com/ghpvc/?username=habiboys&label=Profile%20Views&color=2E96F7&style=for-the-badge" alt="Profile Views" />
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Passionate+about+Web+Development+%F0%9F%92%BB;Exploring+Cloud+Technologies+%E2%98%81%EF%B8%8F;Learning+and+Growing+Everyday+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
 </div>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 About Me
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <div align="center">
-  <!-- Snake animation -->
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake animation" />
+  <h2>🌟 About Me</h2>
+  <img align="right" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="245" />
-
-```javascript
-const nouval = {
-    pronouns: "he/him",
-    education: {
+```typescript
+class Nouval implements Developer {
+    name: string = "M. Nouval Habibie";
+    role: string = "Student Developer";
+    education: Education = {
         university: "Universitas Andalas",
-        semester: 5,
-        major: "Information Systems"
-    },
-    currentStatus: [
-        "🎓 Learning new technologies",
-        "🌱 Growing as a developer",
-        "☁️ Exploring GCP",
-        "💻 Building awesome projects"
-    ],
-    funFact: "I debug my life with coffee ☕"
-};
+        major: "Information Systems",
+        semester: 5
+    };
+    location: string = "Indonesia 🇮🇩";
+    workingOn: string[] = [
+        "Web Development Projects",
+        "Cloud Computing (GCP)",
+        "Personal Growth"
+    ];
+    interests: string[] = [
+        "Technology", "Innovation",
+        "Problem Solving", "Cloud Architecture"
+    ];
 
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+    sayHi(): string {
+        return "Thanks for dropping by! Let's create something amazing together!";
+    }
 }
 ```
 
 <div align="center">
-  <!-- Spotify Now Playing -->
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-</div>
-
-## 💫 My Journey
-
-<div align="center">
-  <!-- Animated Progress Bars -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
-
-- 🎓 **Education**: 
-  ```bash
-  $ echo "Information Systems @ Universitas Andalas"
-  ```
-- 🌱 **Currently Learning**: 
-  ```python
-  technologies = ["GCP", "React", "Laravel", "Node.js"]
-  ```
-- 💡 **Projects**: 
-  ```javascript
-  status = "Always coding something interesting!"
-  ```
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <!-- Animated Tech Stack -->
-  <p align="center">
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
-    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
-  </p>
+  <h2>🚀 Quick Stats</h2>
   
-  <!-- Animated Skill Bars -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45" />
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" />
-  </p>
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
   <!-- Animated Stats Cards -->
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=radical&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=radical&hide_border=true"/>
+
+  <!-- Languages Card -->
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&theme=radical&hide_border=true&layout=compact"/>
+</div>
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <h2>💻 Technologies & Tools</h2>
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&theme=tokyo-night&hide_border=true" width="100%" />
+  <!-- Language Tiers -->
+  <h3>👨‍💻 Programming Languages</h3>
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+  <h3>🎨 Frontend Development</h3>
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  <h3>⚙️ Backend Development</h3>
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  <h3>☁️ Cloud & DevOps</h3>
+  
+  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-## 🎮 Fun Developer Facts
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&custom_title=Nouval's%20Contribution%20Graph&theme=radical&bg_color=0D1117&hide_border=true" width="100%"/>
 
+<!-- Animated Snake -->
 <div align="center">
-  <!-- Animated Cards -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging Time!" />
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"/>
 </div>
 
-```python
-# Life of a Developer
-class NouvalLife:
-    def __init__(self):
-        self.coffee_level = "Always needs refill ☕"
-        self.debug_status = "It works on my machine! 🤔"
-        self.daily_routine = ["Code", "Debug", "Coffee", "Repeat"]
-        self.favorite_bug = "The one that disappears by itself 👻"
-```
-
+<!-- Current Status -->
 <div align="center">
-  <!-- Animated Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  <h2>🎯 Current Status</h2>
+  
+  ```text
+  🌱 Currently learning advanced cloud architecture
+  💡 Open for collaboration on innovative projects
+  🎓 Working on expanding my skill set
+  ⚡ Available for interesting discussions and ideas
+  ```
+  
+  <!-- Spotify Status -->
+  <h3>🎵 Vibing to</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7xrcqnwwvwn4xjcidjbpkr73a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
+</div>
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-nouval-habibie)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouvalhabibie18@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nuval18_)
+
+  <h3>💬 Favorite Quote</h3>
+  
+  > *"The only way to do great work is to love what you do."* - Steve Jobs
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=habiboys&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="100" />
-  <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+create+together!;Happy+coding!+%F0%9F%9A%80" alt="Outro" />
-</div>
-
-<!-- Final Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
