@@ -1,140 +1,125 @@
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="100" height="100" />
+# Welcome to My Digital Space! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJwNmpmd2kweGs3NWV1M3J2Y3cxbzZhdHE4cTdlNm9oeTJvNzVzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px" height="40px" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=135&lines=Hi+there!+I'm+Nouval+Habibie+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   
-  <div>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.gif" width="30px"/> <img src="https://custom-icon-badges.demolab.com/badge/-Student%20at%20Universitas%20Andalas-FF675E?style=for-the-badge&logo=student&logoColor=white" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.gif" width="30px"/>
-  </div>
-  
-  <br/>
-  
-  <a href="https://linkedin.com/in/m-nouval-habibie">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nouvalhabibie18@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/nuval18_">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Nouval+Habibie!+%F0%9F%91%8B;Information+Systems+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Cloud+Explorer+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="85%" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/m-nouval-habibie"><img src="https://img.shields.io/badge/-Nouval_Habibie-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:nouvalhabibie18@gmail.com"><img src="https://img.shields.io/badge/-nouvalhabibie18@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/nuval18_"><img src="https://img.shields.io/badge/-@nuval18__-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=habiboys&style=flat-square&color=blue" alt="Profile views" />
+  </p>
 </div>
 
-<br/>
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,react,laravel,nodejs,js,java,php,cpp&perline=8&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote"/>
-  <img align="right" width="400px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.gif" />
-</div>
-
-<br/>
-
+<table>
+  <tr>
+    <td>
+      
 ```typescript
-type TechStack = {
-  languages: string[];
-  frameworks: string[];
-  cloud: string[];
-  currently_learning: string[];
-};
-
-class FullStackDeveloper {
-  name = "Nouval Habibie";
-  title = "Information Systems Student";
-  location = "Indonesia 🇮🇩";
+class Developer {
+  name: string = "Nouval Habibie";
+  role: string = "Full-Stack Developer";
+  education: string = "Information Systems @ Unand";
+  location: string = "Indonesia 🇮🇩";
   
-  tech_stack: TechStack = {
-    languages: ["JavaScript", "TypeScript", "PHP", "Java", "C++"],
-    frameworks: ["React", "Laravel", "Node.js", "Express"],
-    cloud: ["Google Cloud Platform"],
-    currently_learning: ["Cloud Architecture", "DevOps", "System Design"]
-  };
+  skills: Array<string> = [
+    "Web Development",
+    "Cloud Computing",
+    "Problem Solving"
+  ];
   
-  daily_routine(): string[] {
-    return [
-      "☕ Code with coffee",
-      "🎯 Solve real-world problems",
-      "🌱 Learn new technologies",
-      "🚀 Build awesome projects",
-      "🎮 Debug... and more debug"
-    ];
+  dailyRoutine(): void {
+    eat();
+    code();
+    coffee();
+    repeat();
   }
 }
 ```
+    
+   </td>
+   <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+   </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-habiboys.vercel.app/api?username=habiboys&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=500px" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habiboys&theme=radical&hide_border=true&card_width=500px" />
-  <br/>
-  <img src="https://github-readme-stats-habiboys.vercel.app/api/top-langs/?username=habiboys&layout=compact&theme=radical&hide_border=true&card_width=500px" />
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> 
-    Current Journey
-  </h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=tokyonight&hide_border=true" />
+  
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true&column=7" />
 </div>
+
+## 🎯 Current Focus
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="40" />
-        <br/>
-        Studying Information Systems at Universitas Andalas
+        
+  - 🎓 Deepening my knowledge in **Information Systems**
+  - 💡 Mastering **Full-Stack Development**
+  - ☁️ Exploring **Google Cloud Platform**
+  - 🌱 Learning new technologies daily
+        
       </td>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="Cloud" width="40" />
-        <br/>
-        Exploring Google Cloud Platform
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" />
-        <br/>
-        Building Full Stack Web Applications
-      </td>
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="40" />
-        <br/>
-        Learning New Technologies Daily
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
       </td>
     </tr>
   </table>
 </div>
 
+## 💭 Favorite Quote
+
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" /> 
-    GitHub Trophies
-  </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=radical&no-frame=true&column=7" />
+  
+  > *"The only way to do great work is to love what you do."*  
+  > — Steve Jobs
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
+---
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" /> 
-    Contribution Time Machine
-  </h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habiboys&theme=radical" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crystal%20Ball.png" alt="Crystal Ball" width="30" />
-  <strong>Fun Fact:</strong> My code has more versions than my life decisions! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Crystal%20Ball.png" alt="Crystal Ball" width="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&pause=1000&color=2E96F7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 </div>
