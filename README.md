@@ -68,24 +68,7 @@ class Developer {
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=tokyonight&hide_border=true" />
-  
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true&column=7" />
-</div>
 
 ## 🎯 Current Focus
 
