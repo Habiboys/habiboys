@@ -1,90 +1,100 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Nouval Habibie!
+# Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&width=435&lines=Student+%F0%9F%8E%93+%7C+Web+Developer+%F0%9F%92%BB;Google+Cloud+Explorer+%E2%98%81%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Tech+Playground!+🚀;Student+by+Day%2C+Developer+by+Night+✨;Making+Ideas+Come+to+Life+Through+Code+💻" alt="Typing SVG" />
+  <br/>
   
-  <p>
-    <a href="https://linkedin.com/in/m-nouval-habibie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:nouvalhabibie18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://instagram.com/nuval18_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  </p>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=habiboys&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+  
+  <!-- Social Badges -->
+  <div>
+    <a href="https://linkedin.com/in/m-nouval-habibie" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:nouvalhabibie18@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://instagram.com/nuval18_" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
 </div>
-
-## 🚀 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="245" />
-
-```javascript
-const nouval = {
-    education: "5th semester @ Universitas Andalas",
-    major: "Information Systems",
-    passions: ["Web Development", "Cloud Computing"],
-    currentFocus: "Google Cloud Platform",
-    coffee: "Dependency Injection ☕",
-    motto: "Debug life, one line at a time! 💻"
-};
-```
-
-## 🎯 Current Journey
-
-- 🎓 Expanding my knowledge in **Information Systems** at **Universitas Andalas**
-- 💻 Building exciting web projects (Check my [repositories](https://github.com/Habiboys)!)
-- ☁️ Exploring the vast world of **Google Cloud Platform**
-- 🌱 Always learning, always growing
-
-## 🛠️ Tech Arsenal
 
 <div align="center">
-
-### Cloud & DevOps
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/>
-</p>
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-</p>
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> 
+    About Me
+  </h2>
 </div>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=habiboys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habiboys&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
-</div>
-
-## 🎮 Fun Developer Facts
-
-```text
-💡 Despite not being a huge programming fan, I love solving real problems with code
-☕ Coffee and code: A love story (with occasional debugging drama)
-🎲 Every time I run code: "Is this the bug-free version?"
-📚 My error messages could write a bestselling novel
+```typescript
+class Developer {
+  name: string = 'Nouval Habibie';
+  role: string = 'Information Systems Student';
+  education: string = 'Universitas Andalas | 5th Semester';
+  location: string = 'Indonesia 🇮🇩';
+  
+  currentlyFocusedOn: string[] = [
+    'Google Cloud Platform ☁️',
+    'Web Development 🌐',
+    'Problem Solving 🧠'
+  ];
+  
+  lifeMotto(): string {
+    return 'Turn Coffee into Code, and Dreams into Reality! ☕';
+  }
+}
 ```
 
 <div align="center">
-
-## 💭 Inspirational Quote
-  
-> *"The best way to predict the future is to create it."*  
-> \- Abraham Lincoln
-
-<img src="https://komarev.com/ghpvc/?username=habiboys&color=blue&style=flat-square" alt="Profile views counter" />
-
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Arsenal+%F0%9F%9B%A0%EF%B8%8F&lineCount=2&width=900&line1=google_cloud%2CGCP%2C00c6ff%3Breact%2CReact%2C61dafb%3Blaravel%2CLaravel%2Cff2d20%3Bnodedotjs%2CNode.js%2C339933&line2=javascript%2CJavaScript%2Cf7df1e%3Bjava%2CJava%2C007396%3Bphp%2CPHP%2C777bb4%3Bcplusplus%2CC%2B%2B%2C00599c" alt="Tech Stack" />
 </div>
 
----
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+create+something+awesome!" alt="Outro Typing SVG" />
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> 
+    GitHub Analytics
+  </h2>
 </div>
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=habiboys&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true" />
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
+    Current Journey
+  </h2>
+</div>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.gif" width="200">
+
+- 🎓 Expanding knowledge in **Information Systems**
+- ☁️ Deep diving into **Google Cloud Platform**
+- 💻 Building impactful web applications
+- 🌱 Learning something new every day
+- 🚀 Working on exciting side projects
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" />
+    Random Dev Quote
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35">
+  <p>Let's connect and create something amazing together!</p>
+  
+  ![Snake animation](https://github.com/habiboys/habiboys/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
