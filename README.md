@@ -23,14 +23,13 @@
 ```typescript
 class Developer {
   name: string = "Nouval Habibie";
-  role: string = "Full-Stack Developer";
+  role: string = "Backend Developer";
   education: string = "Information Systems @ Unand";
   location: string = "Indonesia 🇮🇩";
   
   skills: Array<string> = [
     "Web Development",
     "Cloud Computing",
-    "Problem Solving"
   ];
   
   dailyRoutine(): void {
