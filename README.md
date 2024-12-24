@@ -1,19 +1,15 @@
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World!
 
 <div align="center">
-  <!-- Menggunakan Typing SVG yang sudah terbukti berfungsi -->
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=40&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=135&lines=Hi+there!+I'm+Nouval+Habibie+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=135&lines=Hi+there!+I'm+Nouval+Habibie+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB+%7C+Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   
   <div>
-    <!-- Menggunakan badge yang lebih reliable -->
-    <a href="https://github.com/habiboys">
-      <img src="https://img.shields.io/badge/-Student%20at%20Universitas%20Andalas-FF675E?style=for-the-badge" alt="University Badge"/>
-    </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Student%20at%20Universitas%20Andalas-FF675E?style=for-the-badge&logoColor=white" /> 
   </div>
   
   <br/>
   
-  <!-- Social Media Badges yang sudah terbukti berfungsi -->
+  <!-- Social Media Badges -->
   <a href="https://linkedin.com/in/m-nouval-habibie">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,17 +20,20 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  <!-- Snake animation yang diperbarui -->
-  ![Snake animation](https://raw.githubusercontent.com/habiboys/habiboys/output/github-contribution-grid-snake-dark.svg)
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=habiboys&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
 </div>
 
-<!-- Tech Stack Icons -->
+<br/>
+
+<!-- Tech Stack -->
 <div align="center">
-  <h2>🛠️ Technologies & Tools</h2>
   <img src="https://skillicons.dev/icons?i=gcp,react,laravel,nodejs,js,java,php,cpp&perline=8" />
 </div>
 
-<!-- Profile Code -->
+<br/>
+
+<!-- Code Profile -->
 ```typescript
 type TechStack = {
   languages: string[];
@@ -67,46 +66,40 @@ class FullStackDeveloper {
 }
 ```
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/habiboys">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=habiboys&theme=react-dark&hide_border=true&area=true" />
-  </a>
-  
-  <p align="center">
-    <a href="https://github.com/habiboys">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&layout=compact&langs_count=8&theme=radical"/>
-    </a>
-  </p>
-  
-  <!-- GitHub Streak -->
-  <a href="https://github.com/habiboys">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiboys&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=habiboys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=habiboys&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<!-- Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiboys&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </div>
 
 <!-- Current Journey -->
 <div align="center">
   <h2>🚀 Current Journey</h2>
-  
+
   <table>
     <tr>
-      <td align="center">
+      <td width="50%">
         📚 Studying Information Systems at Universitas Andalas
       </td>
-      <td align="center">
+      <td width="50%">
         ☁️ Exploring Google Cloud Platform
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td width="50%">
         💻 Building Full Stack Web Applications
       </td>
-      <td align="center">
+      <td width="50%">
         🌱 Learning New Technologies Daily
       </td>
     </tr>
@@ -116,18 +109,26 @@ class FullStackDeveloper {
 <!-- GitHub Trophies -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=habiboys&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-<!-- Profile Views -->
+<!-- GitHub Contribution Graph -->
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=habiboys&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <h2>📈 Contribution Graph</h2>
+  
+  ![Snake animation](https://raw.githubusercontent.com/habiboys/habiboys/output/github-contribution-grid-snake.svg)
 </div>
 
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" width="100%"/>
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 <div align="center">
-  <strong>🎮 Fun Fact:</strong> My code has more versions than my life decisions! 
+  <strong>🎮 Fun Fact:</strong> My code has more versions than my life decisions!
+  
+  <p>Thanks for visiting! Let's connect and create something amazing together! 🚀</p>
 </div>
